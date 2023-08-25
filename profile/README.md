@@ -1,4 +1,4 @@
-<img width=154 alt="Devise" src="https://github.com/DeviseElectronics-Pvt-Ltd/.github/tree/main/profile/images/DE_LOGO.svg">
+<img width=154 alt="Devise Electronics Pvt. Ltd." src="https://github.com/DeviseElectronics-Pvt-Ltd/.github/blob/main/profile/images/DE_LOGO.svg">
 
 # Devise Electronics software
 
